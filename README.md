@@ -1,6 +1,7 @@
 # 6502-Computer
 Build a 6502 computer
 
+https://eater.net/6502
 
 System Preperation
 
