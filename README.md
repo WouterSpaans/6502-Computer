@@ -12,6 +12,9 @@ hexdump -C rom.bin
 
 sudo apt-get install build-essential pkg-config git libusb-1.0-0-dev
 
+git config --global user.name "Wouter Spaans"
+git config --global user.email wouterspaans@hotmail.com
+
 git clone https://gitlab.com/DavidGriffith/minipro.git
 cd minipro
 make
@@ -31,3 +34,6 @@ minipro -p AT28C256 -r orig.bin
 hexdump -C orig.bin 
 
 minipro -F updateII.dat
+
+
+git clone https://github.com/WouterSpaans/6502-Computer.git
