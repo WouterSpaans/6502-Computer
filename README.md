@@ -34,3 +34,6 @@ Hex Editor
 Markdown Preview?
 Python
 x64 and x68_64 Assembly
+
+# On windows
+Python
